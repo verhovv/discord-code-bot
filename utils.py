@@ -6,6 +6,3 @@ def review_code(code: str) -> str:
         code = code[3:-3]
 
     return code
-
-
-SECRET_PASSCODE = 'Всем привет из яндекса!'
